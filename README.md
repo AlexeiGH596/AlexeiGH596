@@ -1,3 +1,1 @@
-👋 Olá, me chamo Alexei
-⁉️ Estou interessado em aprender cada vez mais no universo da tecnolgia
-🧑‍💻 Atualmente, estou focado em front-end e em desenvolver meus projetos pessoais
+🧑‍💻👋 Olá, me chamo Alexei e estou interessado em aprender cada vez mais no cativante universo da tecnolgia. Atualmente, estou focado em front-end e em desenvolver meus próprios projetos pessoais.
